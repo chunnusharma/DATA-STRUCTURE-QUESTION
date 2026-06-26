@@ -75,7 +75,7 @@ public class ReverseList {
           
         ReverseList sList = new ReverseList();  
           
-        //Add nodes to the list  
+        //Add nodes to the list 
         sList.addNode(1);  
         sList.addNode(2);  
         sList.addNode(3);  
